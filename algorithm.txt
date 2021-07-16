@@ -1,0 +1,17 @@
+From the New York Times:
+
+Think of ranked-choice voting as voting in rounds: If a single candidate
+receives more than 50 percent of first-choice votes in the first round, then
+he or she wins, and that's the end of the race.
+
+If no one exceeds 50 percent of votes in the first round, the candidate in
+last place is eliminated, and all other candidates move on to the next round.
+All the votes for the eliminated candidate will be reallocated to whichever
+candidate those voters ranked second, and then the votes are retabulated.
+Then the candidate in last place after that will be eliminated.
+
+In New York's primary, these rounds of elimination will continue until there
+are two candidates left - even if a candidate collects more than 50 percent of
+votes before the very end. The candidate with the most votes in the final
+round wins. In each round, when a candidate gets eliminated, his or her votes
+get redistributed to whoever was ranked next on the ballot. 
